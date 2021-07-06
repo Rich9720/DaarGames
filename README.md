@@ -1,2 +1,2 @@
 # DaarGames
-Teinda Online de DaarGames
+Tienda Online de DaarGames
